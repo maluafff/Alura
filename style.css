@@ -1,0 +1,78 @@
+body {
+    background: rgb(68, 68, 68);
+    color: rgb(22, 47, 80);
+    margin: 5px;
+
+}
+
+header {
+    border-bottom: solid 5px rgb(163, 163, 163);
+    padding: 12px;
+    font-size: 8px;
+    color: rgb(100, 100, 100);
+
+}
+
+.título {
+    font-family: "Exo 2", sans-serif;
+
+}
+
+.psicologia-explicada {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: rgb(0, 0, 0);
+    font-family: "Exo 2", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    padding-top: 5px;
+    height: 70px;
+
+}
+
+.margem {
+    font-size: 5px;
+    background-color: rgb(163, 163, 163);
+}
+
+.conceito-básico {
+    font-family: "nunito", sans-serif;
+    background-color: rgb(100, 100, 100);
+}
+
+.parte-1 {
+    background-color: rgb(100, 100, 100);
+    padding-bottom: 20px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: "nunito", sans-serif;
+
+}
+
+.Denifição {
+    margin-right: 5%;
+
+}
+
+.Vídeo {
+    margin-left: 15%;
+}
+
+
+
+.diferentes-áreas {
+    font-family: "nunito", sans-serif;
+    background-color: rgb(100, 100, 100);
+    color: rgb(211, 99, 22);
+}
+
+.áreas {
+    height: 350px;
+    border: 1rem solid;
+    border-color: rgb(163, 163, 163);
+    
+}
